@@ -1,0 +1,116 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue=".user" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="65">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="h2" />
+            <item index="7" class="java.lang.String" itemvalue="hair-service" />
+            <item index="8" class="java.lang.String" itemvalue="sda-gantt-event-list" />
+            <item index="9" class="java.lang.String" itemvalue="sda-gantt-row" />
+            <item index="10" class="java.lang.String" itemvalue="sda-gantt-event" />
+            <item index="11" class="java.lang.String" itemvalue="sda-gantt-section" />
+            <item index="12" class="java.lang.String" itemvalue="sda-gantt-cell" />
+            <item index="13" class="java.lang.String" itemvalue="sda-gantt-flag" />
+            <item index="14" class="java.lang.String" itemvalue="gantt-table-controller" />
+            <item index="15" class="java.lang.String" itemvalue="sda-gantt-bottom-editor-panel" />
+            <item index="16" class="java.lang.String" itemvalue="sda-gantt-container" />
+            <item index="17" class="java.lang.String" itemvalue="sda-gantt-table" />
+            <item index="18" class="java.lang.String" itemvalue="main-sda-gantt-container" />
+            <item index="19" class="java.lang.String" itemvalue="sda-gantt-date-range-picker" />
+            <item index="20" class="java.lang.String" itemvalue="sda-gantt-table-controller" />
+            <item index="21" class="java.lang.String" itemvalue="sda-hpa-consumption-panel" />
+            <item index="22" class="java.lang.String" itemvalue="sda-raw-water-consumption-panel" />
+            <item index="23" class="java.lang.String" itemvalue="sda-general-event-panel" />
+            <item index="24" class="java.lang.String" itemvalue="sda-general-maintenance-event-panel" />
+            <item index="25" class="java.lang.String" itemvalue="sda-gantt-editor-panel" />
+            <item index="26" class="java.lang.String" itemvalue="sda-project-name-lookup" />
+            <item index="27" class="java.lang.String" itemvalue="sda-activity-code-selector" />
+            <item index="28" class="java.lang.String" itemvalue="sda-event-day-picker" />
+            <item index="29" class="java.lang.String" itemvalue="sda-date-range-picker" />
+            <item index="30" class="java.lang.String" itemvalue="sda-operation-hours-selector" />
+            <item index="31" class="java.lang.String" itemvalue="web-gantt-chart" />
+            <item index="32" class="java.lang.String" itemvalue="hair-service-list" />
+            <item index="33" class="java.lang.String" itemvalue="hair-about-me-secition" />
+            <item index="34" class="java.lang.String" itemvalue="hair-about-me-section" />
+            <item index="35" class="java.lang.String" itemvalue="hair-faq-section" />
+            <item index="36" class="java.lang.String" itemvalue="test-tag" />
+            <item index="37" class="java.lang.String" itemvalue="welcome-message" />
+            <item index="38" class="java.lang.String" itemvalue="food-tracker-app" />
+            <item index="39" class="java.lang.String" itemvalue="arnold-eos" />
+            <item index="40" class="java.lang.String" itemvalue="login-form" />
+            <item index="41" class="java.lang.String" itemvalue="login-view" />
+            <item index="42" class="java.lang.String" itemvalue="contact-view" />
+            <item index="43" class="java.lang.String" itemvalue="gantt-view" />
+            <item index="44" class="java.lang.String" itemvalue="dashboard-view" />
+            <item index="45" class="java.lang.String" itemvalue="user-account-view" />
+            <item index="46" class="java.lang.String" itemvalue="user-guide-view" />
+            <item index="47" class="java.lang.String" itemvalue="users-view" />
+            <item index="48" class="java.lang.String" itemvalue="manage-users-view" />
+            <item index="49" class="java.lang.String" itemvalue="account-view" />
+            <item index="50" class="java.lang.String" itemvalue="home-view" />
+            <item index="51" class="java.lang.String" itemvalue="header-link" />
+            <item index="52" class="java.lang.String" itemvalue="app-header" />
+            <item index="53" class="java.lang.String" itemvalue="app-content" />
+            <item index="54" class="java.lang.String" itemvalue="app-footer" />
+            <item index="55" class="java.lang.String" itemvalue="header-content" />
+            <item index="56" class="java.lang.String" itemvalue="account-link" />
+            <item index="57" class="java.lang.String" itemvalue="account-menu-drop-down" />
+            <item index="58" class="java.lang.String" itemvalue="account-form" />
+            <item index="59" class="java.lang.String" itemvalue="create-schedule-view" />
+            <item index="60" class="java.lang.String" itemvalue="gantt-chart" />
+            <item index="61" class="java.lang.String" itemvalue="gantt-viewer" />
+            <item index="62" class="java.lang.String" itemvalue="gantt-head" />
+            <item index="63" class="java.lang.String" itemvalue="web-chess-board" />
+            <item index="64" class="java.lang.String" itemvalue="chess-board" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E305" />
+          <option value="E303" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N803" />
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="list.add" />
+          <option value="str.__sub__" />
+          <option value="str.__or__" />
+          <option value="list.aooend" />
+          <option value="main.SDAGantt.id" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
